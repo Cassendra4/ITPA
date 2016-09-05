@@ -32,17 +32,12 @@ import edu.stanford.nlp.util.CoreMap;
 
 public class LoadStandfordCoreNLP {
 	public static void main(String[] args) {
-		Properties props = new Properties();
-	    props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
-	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
-	    
-	    // read some text from the file..
-	   
-	    // create an empty Annotation just with the given text
-	    
-
-	      
-	   //  loadStandfordCoreNLP.dfs(tree,null, headFinder);
+	Properties props = new Properties();
+    props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
+//	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+	    StandfordCoreNLPService standfordCoreNLPService=new StandfordCoreNLPService();
+	    standfordCoreNLPService.LoadService(props);
+	    String headword=standfordCoreNLPService.getHeadWord("What year did the titanic sink?");
 	     
 
 	    }
