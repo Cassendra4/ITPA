@@ -1,0 +1,71 @@
+Is water park open during summer in Dubai?
+0.843: (water park; Is open during; summer)
+0.836: (water park; Is; open)
+
+Haeinsa Temple is worth a visit
+0.684: (Haeinsa Temple; is; worth)
+
+Restaurants in New York pizza
+No extractions found.
+
+Where to eat pizza in New York
+0.677: (pizza; to be eat in; New York)
+
+eat pizza in New York
+0.848: (pizza; be eat in; New York)
+
+Restaurants to eat pizza in New York
+0.677: (pizza; to be eat in; New York)
+
+See Tripitaka Koreana in Haeinsa Temple
+0.868: (Tripitaka Koreana; be See in; Haeinsa Temple)
+
+Is it safe to travel to Seoul?
+0.76: (it; Is; safe)
+
+Is it safe for a female to travel alone in south korea?
+0.822: (it; Is safe for; a female to travel alone in south korea)
+0.76: (it; Is; safe)
+
+Where to stay in south korea to get a feeling of the culture?
+No extractions found.
+
+What are the outdoor activities available during the winter season in south korea?
+0.62: (the outdoor activities; be available during; the winter season)
+
+How many days should I spend in Busan?
+0.692: (I; How many days should spend in; Busan)
+0.677: (many days; should be spend in; Busan)
+0.295: (I; should spend; many days)
+
+What are the must see sights in Taiwan?
+No extractions found.
+
+What are the things to do in taiwan?
+No extractions found.
+
+Where can I find the best exchange rates in taiwan?
+0.708: (the best exchange rates; can be find in; taiwan)
+0.626: (I; can find the best exchange rates in; taiwan)
+0.569: (I; can find; the best exchange rates)
+
+Where can I buy a pre-paid sim card in taiwan?
+0.708: (a pre-paid sim card; can be buy in; taiwan)
+0.626: (I; can buy a pre-paid sim card in; taiwan)
+0.569: (I; can buy; a pre-paid sim card)
+
+Which is the best mobile network in Taiwan?
+No extractions found.
+
+Can I visit both Taroko Gorge and Ch'ing-shui Cliff in one day?
+0.713: (Taroko Gorge and Ch'ing-shui Cliff; Can be visit in; one day)
+0.647: (I; Can visit Ch'ing-shui Cliff in; one day)
+0.647: (I; Can visit both Taroko Gorge in; one day)
+0.59: (I; Can visit; Taroko Gorge and Ch'ing-shui Cliff)
+
+Can you suggest an itinarary for 6 days in taipei?
+0.763: (you; Can suggest; an itinarary)
+
+Is it safe to travel alone in Taiwan?
+0.76: (it; Is; safe)
+
